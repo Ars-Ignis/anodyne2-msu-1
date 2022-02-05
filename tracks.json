@@ -1,0 +1,400 @@
+{
+	"$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+	"game": "Anodyne 2: Return to Dust",
+	"pack": "Anodyne 2: Return to Dust",
+	"url": "https://htch.bandcamp.com/",
+	"normalization": -19,
+	"output_prefix": "anodyne2",
+	"sample_rate": 44100,
+	"tracks": [
+		{
+			"track_number": 1,
+			"title": "Opening Theme",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 02 C Psalmist's Hymn.mp3",
+			"trim_end": 574080
+		},
+		{
+			"track_number": 2,
+			"title": "Light World",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 12 Center City Cenote.mp3",
+			"trim_end": 8996413,
+			"loop": 0
+		},
+		{
+			"track_number": 3,
+			"title": "Rain State",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 29 Within The Dust Storm.mp3",
+			"trim_start": 121738,
+			"trim_end": 2940131,
+			"loop": 0
+		},
+		{
+			"track_number": 4,
+			"title": "Bunny",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 43 Ghost Bridges.mp3",
+			"trim_end": 4867427,
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 5,
+			"title": "Lost Woods",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 21 Blue Vale Breeze.mp3",
+			"trim_start": 48488,
+			"trim_end": 6422386,
+			"cross_fade": 44100,
+			"loop": 0
+		},
+		{
+			"track_number": 6,
+			"title": "Prologue",
+			"sub_tracks": 
+			[
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 03 Guardian Palisade.mp3",
+					"trim_end": 2769392
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 09 We Call It Nano Dust....mp3",
+					"pad_end": 68771
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 59 Consume Me, Visionary.mp3",
+					"pad_end": 132300
+				}
+			]
+		},
+		{
+			"track_number": 7,
+			"title": "Kakariko Village",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 32 Dustbound.mp3",
+			"trim_end": 6558552,
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 8,
+			"title": "Portal",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 20 Transdimensional Wormhole.mp3",
+			"trim_end": 177282,
+			"fade_out": 10000
+		},
+		{
+			"track_number": 9,
+			"title": "Dark World",
+			"file": "Anodyne 2 OST\\Equip - Anodyne 2- Return to Dust Original Soundtrack - 39 Stargaze Valley Night.mp3",
+			"trim_end": 7037568,
+			"loop": 0,
+			"cross_fade": 14000
+		},
+		{
+			"track_number": 10,
+			"title": "Pedestal",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 18 Purification Hymn of The Center.mp3",
+			"trim_end": 1162000
+		},
+		{
+			"track_number": 11,
+			"title": "File Select",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 01 Anodyne II.mp3",
+			"trim_start": 3128,
+			"trim_end": 4069645,
+			"loop": 0,
+			"cross_fade": 14000
+		},
+		{
+			"track_number": 12,
+			"title": "Guards! Guards!",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 35 COSTUME PARTY'S OVER, NERDS!!.mp3",
+			"loop": 266961,
+			"normalization": -19
+		},
+		{
+			"track_number": 13,
+			"title": "Dark Death Mountain",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 28 Longing.mp3",
+			"loop": 1365619,
+			"trim_end": 6838131
+		},
+		{
+			"track_number": 14,
+			"title": "Minigame",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 45 Unleash Your Fashion Storm!!!.mp3",
+			"loop": 0,
+			"trim_end": 3528121,
+			"normalization": -19
+		},
+		{
+			"track_number": 15,
+			"title": "Skull Woods OW",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 13 Lamp-strewn Crawlspace.mp3",
+			"loop": 0,
+			"trim_end": 1364386
+		},
+		{
+			"track_number": 16,
+			"title": "Hyrule Castle",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 05 Yummy Sippy Cozy.mp3",
+			"loop": 0,
+			"trim_end": 3705392,
+			"normalization": -19
+		},
+		{
+			"track_number": 18,
+			"title": "Cave 1",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 30 Gravityshift Spire.mp3",
+			"loop": 0,
+			"trim_end": 2301367
+		},
+		{
+			"track_number": 19,
+			"title": "Hyrule Castle",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 18 Purification Hymn of The Center.mp3",
+			"trim_end": 1162000
+		},
+		{
+			"track_number": 20,
+			"title": "Sanctuary",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 07 Center Sanctuary.mp3",
+			"loop": 0,
+			"pad_end": 44100
+		},
+		{
+			"track_number": 21,
+			"title": "Boss (Generic)",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 11 It's The Nano Assassin... Again!.mp3",
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 23,
+			"title": "Shop",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 25 Tree Master Fan Cave.mp3",
+			"loop": 0,
+			"trim_end": 3308105
+		},
+		{
+			"track_number": 24,
+			"title": "Cave 2",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 30 Gravityshift Spire.mp3",
+			"loop": 0,
+			"trim_end": 2301367
+		},
+		{
+			"track_number": 25,
+			"title": "Zelda's Rescue",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 03 Guardian Palisade.mp3",
+			"trim_end": 2747342,
+			"loop": 0
+		},
+		{
+			"track_number": 26,
+			"title": "Crystal Collected",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 03 Guardian Palisade.mp3",
+			"trim_end": 2747342,
+			"loop": 0
+		},
+		{
+			"track_number": 27,
+			"title": "Fairy Fountain",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 06 The Blessing of Great Chalaza VIII.mp3",
+			"loop": 0,
+			"trim_end": 2283886,
+			"cross_fade": 20000
+		},
+		{
+			"track_number": 28,
+			"title": "Aganhim Monologue",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 09 We Call It Nano Dust....mp3",
+			"loop": 0,
+			"trim_end": 662558
+		},
+		{
+			"track_number": 29,
+			"title": "Ganon Reveals Himself",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 55 The Anodyne.mp3",
+			"loop": 0
+		},
+		{
+			"track_number": 30,
+			"title": "Ganon Monologue",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 59 Consume Me, Visionary.mp3",
+			"loop": 0,
+			"trim_end": 1385856
+		},
+		{
+			"track_number": 31,
+			"title": "BOSS: Ganon",
+			"sub_tracks": 
+			[
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 57 Sinister Glandilock Seed (Nano).mp3",
+					"trim_end": 3310681
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 58 Sinister Glandilock Seed (Pico).mp3"
+				}
+			],
+			"trim_end": 6615637,
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 32,
+			"title": "Triforce Room",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 33 Handfruit Haven.mp3",
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 33,
+			"title": "Epilogue",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3",
+			"loop": 0
+		},
+		{
+			"track_number": 34,
+			"title": "Credits",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 61 Return To Dust.mp3",
+			"loop": 0
+		},
+		{
+			"track_number": 35,
+			"title": "Eastern Palace",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 15 Concrete Islands of Desire.mp3",
+			"loop": 0,
+			"trim_end": 5370286,
+			"normalization": -19
+		},
+		{
+			"track_number": 36,
+			"title": "Desert Palace",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 46 Bonegummed Yearnsands.mp3",
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 37,
+			"title": "Agahnim's Tower",
+			"file": "Ano2FatumNovaeOST\\12_DustdrasIsle.mp3",
+			"loop": 414112,
+			"normalization": -19
+		},
+		{
+			"track_number": 38,
+			"title": "Swamp Palace",
+			"sub_tracks": 
+			[
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 41 Pastel Horizon.mp3",
+					"trim_end": 7059643
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 42 The Lives of Wild Ghosts.mp3"
+				}
+			],
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 39,
+			"title": "Palace of Darkness",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 17 Sludge-Stained Kitchens.mp3",
+			"loop": 0,
+			"trim_end": 5292580,
+			"normalization": -19
+		},
+		{
+			"track_number": 40,
+			"title": "Misery Mire",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 24 Time To Let Go.mp3",
+			"loop": 0,
+			"trim_end": 6685076,
+			"normalization": -19
+		},
+		{
+			"track_number": 41,
+			"title": "Skull Woods",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 14 Musty Attic Loneliness.mp3",
+			"loop": 0,
+			"trim_end": 6310646,
+			"normalization": -19
+		},
+		{
+			"track_number": 42,
+			"title": "Ice Palace",
+			"sub_tracks": 
+			[
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 26 Self-Actualization Snowfield.mp3",
+					"trim_end": 4651713
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 27 Levitating Aurora Temple.mp3"
+				}
+			],
+			"trim_end": 7764514,
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 43,
+			"title": "Tower of Hera",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 44 Thousand Thousand Layer Golden Orb of Jubilation.mp3",
+			"loop": 0,
+			"trim_end": 6325035,
+			"normalization": -19
+		},
+		{
+			"track_number": 44,
+			"title": "Thieves' Town",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 23 ~-~Sparkle~-~Sparkle~-~Neuromaze~-~.mp3",
+			"loop": 0,
+			"trim_end": 5058292,
+			"normalization": -19
+		},
+		{
+			"track_number": 45,
+			"title": "Turtle Rock",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 16 Infernal Construction Tower.mp3",
+			"loop": 0,
+			"trim_end": 4720219,
+			"normalization": -19
+		},
+		{
+			"track_number": 46,
+			"title": "Ganon's Tower",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 56 Nano Cleaner Zera.mp3",
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 49,
+			"title": "BOSS: Agahnim's Tower",
+			"file": "Ano2FatumNovaeOST\\13_DustdraFight.mp3",
+			"loop": 0,
+			"normalization": -19
+		},
+		{
+			"track_number": 58,
+			"title": "BOSS: Ganon's Tower",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 49 Petrichor Bloodbath.mp3",
+			"loop": 0,
+			"trim_end": 3384076,
+			"normalization": -19
+		},
+		{
+			"track_number": 60,
+			"title": "Pedestal OW",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 37 Poppy Hills of Hope.mp3",
+			"loop": 682352,
+			"cross_fade": 10000
+		},
+		{
+			"track_number": 61,
+			"title": "7 Crystal OW",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 55 The Anodyne.mp3",
+			"loop": 0
+		}
+	]
+}
