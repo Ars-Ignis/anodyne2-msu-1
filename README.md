@@ -43,14 +43,14 @@ To use this pack, you will need to do the following:
 34.   Credits                         61 - Return to Dust
 35.   Eastern Palace                  15 - Concrete Islands of Desire
 36.   Desert Palace                   46 - Bonegummed Yearnsands
-37.   Agahnim's Tower                 F12 The Fearsome Foe's Abode! ~Dustdra's Isle~
+37.   Agahnim's Tower                 F12 The Fearsome Foe's Abode! \~Dustdra's Isle\~
 38.   Swamp Palace                    41 - Pastel Horizon/42 - The Lives of Wild Ghosts
 39.   Palace of Darkness              17 - Sludge-Stained Kitchens
 40.   Misery Mire                     24 - Time To Let Go
 41.   Skull Woods                     14 - Musty Attic Loneliness
 42.   Ice Palace                      26 - Self-Actualization Snowfield/27 - Levitating Aurora Temple
 43.   Tower of Hera                   44 - Thousand Thousand Layer Golden Orb of Jubilation
-44.   Thieves' Town                   23 - ~\*~Sparkle~\*~Sparkle~\*~Neuromaze~\*~
+44.   Thieves' Town                   23 - \~\*\~Sparkle\~\*\~Sparkle\~\*\~Neuromaze\~\*\~
 45.   Turtle Rock                     16 - Infernal Construction Tower
 46.   Ganon's Tower                   56 - Nano Cleaner Zera
 49.   BOSS: Agahnim's Tower           F13 Fear Justice's Vacuum, Cursed Dragon! ~Dustdra Fight~
