@@ -53,7 +53,7 @@ To use this pack, you will need to do the following:
 44.   Thieves' Town                   23 - \~\*\~Sparkle\~\*\~Sparkle\~\*\~Neuromaze\~\*\~
 45.   Turtle Rock                     16 - Infernal Construction Tower
 46.   Ganon's Tower                   56 - Nano Cleaner Zera
-49.   BOSS: Agahnim's Tower           F13 Fear Justice's Vacuum, Cursed Dragon! ~Dustdra Fight~
+49.   BOSS: Agahnim's Tower           F13 Fear Justice's Vacuum, Cursed Dragon! \~Dustdra Fight\~
 58.   BOSS: Ganon's Tower             49 - Petrichor Bloodbath
 60.   Light World OW after ped        37 - Poppy Hills of Hope
 61.   Dark World OW after 7 crystals  55 - The Anodyne
