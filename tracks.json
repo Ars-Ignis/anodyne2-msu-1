@@ -90,8 +90,9 @@
 		{
 			"track_number": 10,
 			"title": "Pedestal",
-			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 18 Purification Hymn of The Center.mp3",
-			"trim_end": 1162000
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 69 Sound Test.mp3",
+			"trim_start": 6136347,
+			"trim_end": 6282847
 		},
 		{
 			"track_number": 11,
@@ -148,9 +149,10 @@
 		},
 		{
 			"track_number": 19,
-			"title": "Hyrule Castle",
+			"title": "Boss Victory",
 			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 18 Purification Hymn of The Center.mp3",
-			"trim_end": 1162000
+			"trim_end": 529200,
+			"fade_out": 5000
 		},
 		{
 			"track_number": 20,
@@ -164,7 +166,7 @@
 			"title": "Boss (Generic)",
 			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 11 It's The Nano Assassin... Again!.mp3",
 			"loop": 0,
-			"normalization": -19
+			"normalization": -15
 		},
 		{
 			"track_number": 23,
@@ -249,8 +251,16 @@
 		{
 			"track_number": 33,
 			"title": "Epilogue",
-			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3",
-			"loop": 0
+			"sub_tracks":
+			[
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3",
+					"pad_start": 528000
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3"
+				}
+			]
 		},
 		{
 			"track_number": 34,
@@ -343,7 +353,8 @@
 			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 44 Thousand Thousand Layer Golden Orb of Jubilation.mp3",
 			"loop": 0,
 			"trim_end": 6325035,
-			"normalization": -19
+			"normalization": -19,
+			"cross_fade": 22050
 		},
 		{
 			"track_number": 44,
@@ -359,7 +370,7 @@
 			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 16 Infernal Construction Tower.mp3",
 			"loop": 0,
 			"trim_end": 4720219,
-			"normalization": -19
+			"normalization": -15
 		},
 		{
 			"track_number": 46,

@@ -19,7 +19,7 @@ To use this pack, you will need to do the following:
 7.    Kakariko Village                32 - Dustbound
 8.    Mirror                          20 - Transdimensional Wormhole
 9.    Dark World                      39 - Equip - Stargaze Valley Night
-10.   Pull Pedestal                   18 - Purification Hymn of The Center
+10.   Pull Pedestal                   69 - Sound Test (Get collar piece jingle)
 11.   File Select                     01 - Anodyne II
 12.   Guards                          35 - COSTUME PARTY'S OVER NERDS!!
 13.   Dark Death Mountain             28 - Longing
