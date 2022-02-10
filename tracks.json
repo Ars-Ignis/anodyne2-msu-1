@@ -43,7 +43,8 @@
 			"trim_start": 48488,
 			"trim_end": 6422386,
 			"cross_fade": 44100,
-			"loop": 0
+			"loop": 0,
+			"normalization": -21
 		},
 		{
 			"track_number": 6,
@@ -90,9 +91,9 @@
 		{
 			"track_number": 10,
 			"title": "Pedestal",
-			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 69 Sound Test.mp3",
-			"trim_start": 6136347,
-			"trim_end": 6282847
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 08 Welcome to Alive, Darling Hatchling!.mp3",
+			"trim_end": 418950,
+			"fade_out": 44100
 		},
 		{
 			"track_number": 11,
@@ -150,9 +151,9 @@
 		{
 			"track_number": 19,
 			"title": "Boss Victory",
-			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 18 Purification Hymn of The Center.mp3",
-			"trim_end": 529200,
-			"fade_out": 5000
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 69 Sound Test.mp3",
+			"trim_start": 6136347,
+			"trim_end": 6282847
 		},
 		{
 			"track_number": 20,
@@ -178,9 +179,9 @@
 		{
 			"track_number": 24,
 			"title": "Cave 2",
-			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 30 Gravityshift Spire.mp3",
+			"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 19 Dimension Diving.mp3",
 			"loop": 0,
-			"trim_end": 2301367
+			"normalization": -17
 		},
 		{
 			"track_number": 25,
@@ -254,8 +255,11 @@
 			"sub_tracks":
 			[
 				{
-					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3",
-					"pad_start": 528000
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 02 C Psalmist's Hymn.mp3",
+					"trim_end": 574080
+				},
+				{
+					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3"
 				},
 				{
 					"file": "Anodyne 2 OST\\melos han-tani - Anodyne 2- Return to Dust Original Soundtrack - 60 The Life That We'll Live.mp3"

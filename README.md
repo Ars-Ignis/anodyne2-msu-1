@@ -19,7 +19,7 @@ To use this pack, you will need to do the following:
 7.    Kakariko Village                32 - Dustbound
 8.    Mirror                          20 - Transdimensional Wormhole
 9.    Dark World                      39 - Equip - Stargaze Valley Night
-10.   Pull Pedestal                   69 - Sound Test (Get collar piece jingle)
+10.   Pull Pedestal                   08 - Welcome to Alive, Darling Hatchling!
 11.   File Select                     01 - Anodyne II
 12.   Guards                          35 - COSTUME PARTY'S OVER NERDS!!
 13.   Dark Death Mountain             28 - Longing
@@ -27,20 +27,20 @@ To use this pack, you will need to do the following:
 15.   Skull Woods OW                  13 - Lamp-strewn Crawlspace
 16.   Hyrule Castle                   05 - Yummy Sippy Cozy
 18.   Cave 1                          30 - Gravityshift Spire
-19.   Boss Victory                    18 - Purification Hymn of The Center
+19.   Boss Victory                    69 - Sound Test (Get collar piece jingle)
 20.   Sanctuary                       07 - Center Sanctuary
 21.   Anger of the Guardians          11 - It's The Nano Assassin… Again!
 23.   Shop                            25 - Tree Master Fan Cave
-24.   Cave 2                          30 - Gravityshift Spire
+24.   Cave 2                          19 - Dimension Diving
 25.   Zelda's Rescue                  03 - Guardian Palisade
 26.   Crystal Collected               03 - Guardian Palisade
 27.   Fairy Fountain                  06 - The Blessing of Great Chalaza VIII
 28.   Agahnim zaps Zelda              09 - We Call It Nano Dust…
 29.   Ganon Reveals Himself           55 - The Anodyne
 30.   Drop in to Ganon                59 - Consume Me, Visionary
-31.   Boss: Ganon                     57 - Sinister Glandilock Seed (Nano) + 58 - Sinister Glandilock Seed (Pico)
+31.   Boss: Ganon                     57 - Sinister Glandilock Seed (Nano)/58 - Sinister Glandilock Seed (Pico)
 32.   Triforce Room                   33 - Handfruit Haven
-33.   Epilogue                        60 - The Life That We'll Live
+33.   Epilogue                        02 - C Psalmist's Hymn/60 - The Life That We'll Live
 34.   Credits                         61 - Return to Dust
 35.   Eastern Palace                  15 - Concrete Islands of Desire
 36.   Desert Palace                   46 - Bonegummed Yearnsands
